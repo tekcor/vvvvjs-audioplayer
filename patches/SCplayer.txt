@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF8" ?>
+<player project="Symbiotic Cube">
+	<album id="1" name="SC#001 Compilation" artist="Symbiotic Cube Various Artists" folder="SC001" cover="001.jpg">
+			<track id="1" name="Leaving the Planet - Rain Drop Land (featuring Tarek)" filename="SC001 - 01 Leaving the Planet - Rain Drop Land (featuring Tarek).mp3"></track>
+			<track id="2" name="Schwarzwald - EZLN" filename="SC001 - 02 Schwarzwald - EZLN.mp3"></track>
+			<track id="3" name="Onyx Ashanti - Pulled and Twisted" filename="SC001 - 03 Onyx Ashanti - Pulled and Twisted.mp3"></track>
+			<track id="4" name="ReVerse Bullets - (Sub)version" filename="SC001 - 04 ReVerse Bullets - (Sub)version.mp3"></track>
+			<track id="5" name="Schwarzwald - Rwanda" filename="SC001 - 05 Schwarzwald - Rwanda.mp3"></track>
+			<track id="6" name="Abduct - nxt-stp" filename="SC001 - 06 Abduct - nxt-stp.mp3"></track>
+			<track id="7" name="Mussurunga - Huga1" filename="SC001 - 07 Mussurunga - Huga1.mp3"></track>
+			<track id="8" name="Leaving the Planet - Primal Human (Altered Stades remix)" filename="SC001 - 08 Leaving the Planet - Primal Human (Altered Stades remix).mp3"></track>
+			<track id="9" name="Skorian - Distance" filename="SC001 - 09 Skorian - Distance.mp3"></track>
+			<track id="10" name="Leaving the Planet - Jump on this Train" filename="SC001 - 10 Leaving the Planet - Jump on this Train.mp3"></track>
+			<track id="11" name="Ohmu - Symienna" filename="SC001 - 11 Ohmu - Symienna.mp3"></track>
+			<track id="12" name="Leaving the Planet - Sun Was High And So Was I  (DorianDroid and Schwarzwald remix)" filename="SC001 - 12 Leaving the Planet - Sun Was High And So Was I  (DorianDroid and Schwarzwald remix).mp3"></track>
+			<track id="13" name="Enrique Tomás - seyðisfjörður #5" filename="SC001 - 13 Enrique Tomás - seyðisfjörður 5.mp3"></track>
+	</album>
+	<album id="2" name="Triumph Of Decay" artist="David Eats Rusty Nails" folder="David Eats Rusty Nails - Triumph Of Decay" cover="002.jpg">
+			<track id="1" name="Rathgar Crossroads" filename="David Eats Rusty Nails - Triumph Of Decay - 01 Rathgar Crossroads.mp3"></track>
+			<track id="2" name="Soliloquize after Chemotherapy" filename="David Eats Rusty Nails - Triumph Of Decay - 02 Soliloquize after Chemotherapy.mp3"></track>
+			<track id="3" name="Plurabelle" filename="David Eats Rusty Nails - Triumph Of Decay - 03 Plurabelle.mp3"></track>
+			<track id="4" name="Hysterosalpingography" filename="David Eats Rusty Nails - Triumph Of Decay - 04 Hysterosalpingography.mp3"></track>
+			<track id="5" name="O'Connell Street" filename="David Eats Rusty Nails - Triumph Of Decay - 05 O'Connell Street.mp3"></track>
+			<track id="6" name="Her Cheekbones" filename="David Eats Rusty Nails - Triumph Of Decay - 06 Her cheekbones.mp3"></track>
+			<track id="7" name="Bahnhofstrasse" filename="David Eats Rusty Nails - Triumph Of Decay - 07 Bahnhofstrasse.mp3"></track>
+			<track id="8" name="Rosefrail" filename="David Eats Rusty Nails - Triumph Of Decay - 08 Rosefrail.mp3"></track>
+			<track id="9" name="Snifter under a False Flag" filename="David Eats Rusty Nails - Triumph Of Decay - 09 Snifter under a false flag.mp3"></track>
+			<track id="10" name="The Goddess in Trap (Bonus Track)" filename="David Eats Rusty Nails - Triumph Of Decay - 10 The goddess in trap.mp3"></track>
+	</album>
+	<album id="3" name="Hits of 00's" artist="YBSTN" folder="YBSTN - YBSTN - Hits of 00's" cover="003.jpg">
+			<track id="1" name="Intro" filename="YBSTN - YBSTN - Hits of 00's - 01 Intro.mp3"></track>
+			<track id="2" name="Crimea" filename="YBSTN - YBSTN - Hits of 00's - 02 Crimea.mp3"></track>
+			<track id="3" name="Jeff" filename="YBSTN - YBSTN - Hits of 00's - 03 Jeff.mp3"></track>
+			<track id="4" name="Swamp" filename="YBSTN - YBSTN - Hits of 00's - 04 Swamp.mp3"></track>
+			<track id="5" name="6-pm" filename="YBSTN - YBSTN - Hits of 00's - 05 6-pm.mp3"></track>
+			<track id="6" name="L" filename="YBSTN - YBSTN - Hits of 00's - 06 L.mp3"></track>
+			<track id="7" name="Сияние" filename="YBSTN - YBSTN - Hits of 00's - 07.mp3"></track>
+			<track id="8" name="J.Dell" filename="YBSTN - YBSTN - Hits of 00's - 08 J.Dell.mp3"></track>
+	</album>
+	<album id="4" name="2967 " artist="Leaving the Planet" folder="Leaving the Planet - 2967" cover="004.jpg">
+			<track id="1" name="2967" filename="Leaving the Planet - 2967 - 01 Leaving the Planet - 2967.mp3"></track>
+			<track id="2" name="Mechanostasis" filename="Leaving the Planet - 2967 - 02 Leaving the Planet - Mechanostasis.mp3"></track>
+			<track id="3" name="Ben Gann" filename="Leaving the Planet - 2967 - 03 Leaving the Planet - Ben Gann.mp3"></track>
+			<track id="4" name="Sun Was High And So Was I (DorianDroid and Schwarzwald remix)" filename="Leaving the Planet - 2967 - 04 Leaving the Planet - Sun Was High And So Was I (DorianDroid and Schwarzwald remix).mp3"></track>
+			<track id="5" name="Feel the Wicked Pain" filename="Leaving the Planet - 2967 - 05 Leaving the Planet - Feel the Wicked Pain.mp3"></track>
+			<track id="6" name="Mammal Sea" filename="Leaving the Planet - 2967 - 06 Leaving the Planet - Mammal Sea.mp3"></track>
+	</album>
+	<album id="5" name="Indigo" artist="Bunai Carus" folder="Bunai Carus - Indigo" cover="005.jpg">
+			<track id="1" name="Utsah Park" filename="Bunai Carus - Indigo - 01 Utsah Park.mp3"></track>
+			<track id="2" name="Ultra Violet" filename="Bunai Carus - Indigo - 02 Ultra Violet.mp3"></track>
+			<track id="3" name="Paces" filename="Bunai Carus - Indigo - 03 Paces.mp3"></track>
+			<track id="4" name="Kern Arc" filename="Bunai Carus - Indigo - 04 Kern Arc.mp3"></track>
+	</album>
+	<album id="6" name="共生立方 SC006 VA Compilation" artist="Symbiotic Cube" folder="SC006_Compilation_128" cover="006.jpg">
+			<track id="1" name="Odepth - Void" filename="SC006 - 1. Odepth - Void.mp3"></track>
+			<track id="2" name="Abduct - Trails of Hair" filename="SC006 - 2. Abduct - Trails of Hair.mp3"></track>
+			<track id="3" name="Andi Finger - No Greenland in Sight" filename="SC006 - 3. Andi Finger - No Greenland in Sight.mp3"></track>
+			<track id="4" name="Leaving the Planet - Can You Save the World" filename="SC006 - 4. Leaving the Planet - Can You Save the World.mp3"></track>
+			<track id="5" name="r.m.ʝ〜ʎ - ⋱⊷⋱⫎⋯" filename="SC006 - 5 r.m.mp3"></track>
+			<track id="6" name="GLASKIN - Party's Over" filename="SC006 - 6. GLASKIN - Party's Over.mp3"></track>
+			<track id="7" name="Reverse Bullets - Chaptre Un" filename="SC006 - 7. Reverse Bullets - Chaptre Un.mp3"></track>
+			<track id="8" name="Rowan J. Thyme - Inner-City Tiger" filename="SC006 - 8. Rowan J. Thyme - Inner-City Tiger.mp3"></track>
+			<track id="9" name="Tzeshi - Fossil of Flame" filename="SC006 - 9. Tzeshi - Fossil of Flame.mp3"></track>
+			<track id="10" name="YBSTN - Freud" filename="SC006 - 10. YBSTN - Freud.mp3"></track>
+	</album>
+	<album id="7" name="Assur and Cyclades" artist="Konsul Gnadenwalze" folder="Konsul_Gnadenwalze128" cover="007.jpg">
+			<track id="1" name="I" filename="Konsul Gnadenwalze - 01 I.mp3"></track>
+			<track id="2" name="II" filename="Konsul Gnadenwalze - 02 II.mp3"></track>
+			<track id="3" name="III" filename="Konsul Gnadenwalze - 03 III.mp3"></track>
+			<track id="4" name="IV" filename="Konsul Gnadenwalze - 04 IV.mp3"></track>
+			<track id="5" name="V" filename="Konsul Gnadenwalze - 05 V.mp3"></track>
+	</album>
+</player>

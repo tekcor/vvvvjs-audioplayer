@@ -1,0 +1,225 @@
+<!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta28.1.dtd" >
+  <PATCH>
+  <BOUNDS type="Window" width="8760" height="34905">
+  </BOUNDS>
+  <NODE id="10240" nodename="Renderer (Canvas VVVVjs)" systemname="Renderer (Canvas VVVVjs)" componentmode="Hidden">
+  <BOUNDS type="Node" left="585" top="4305" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Layers" visible="1">
+  </PIN>
+  <PIN pinname="Clear" visible="1">
+  </PIN>
+  <PIN pinname="Background Color" visible="1">
+  </PIN>
+  <PIN pinname="Backbuffer Width" visible="1">
+  </PIN>
+  <PIN pinname="Backbuffer Height" visible="1">
+  </PIN>
+  <PIN pinname="View" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="|#RendererMain|">
+  </PIN>
+  </NODE>
+  <NODE id="10241" nodename="ScreenInfo (Windows)" systemname="ScreenInfo (Windows)" componentmode="Hidden">
+  <BOUNDS type="Node" left="2670" top="2490" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10242" nodename="Vector (2d Split)" systemname="Vector (2d Split)" componentmode="Hidden">
+  <BOUNDS type="Node" left="2640" top="2850" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="XY" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10243" nodename="HSV (Color Join)" systemname="HSV (Color Join)" componentmode="Hidden">
+  <BOUNDS type="Node" left="1440" top="3150" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Hue" visible="1">
+  </PIN>
+  <PIN pinname="Saturation" visible="1">
+  </PIN>
+  <PIN pinname="Value" visible="1" values="|0|">
+  </PIN>
+  <PIN pinname="Alpha" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10247" nodename="Scale (Transform)" systemname="Scale (Transform)" componentmode="Hidden">
+  <BOUNDS type="Node" left="2235" top="3975" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Transform In" visible="1">
+  </PIN>
+  <PIN pinname="X" visible="1">
+  </PIN>
+  <PIN pinname="Y" visible="1">
+  </PIN>
+  <PIN pinname="Z" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10248" nodename="Divide (Value)" systemname="Divide (Value)" componentmode="Hidden">
+  <BOUNDS type="Node" left="2430" top="3540" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Input" visible="1">
+  </PIN>
+  <PIN pinname="Input 2" visible="1">
+  </PIN>
+  <PIN pinname="Inputs Count" visible="0" values="|2|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10337" nodename="Mouse (System Window)" systemname="Mouse (System Window)" componentmode="Hidden">
+  <BOUNDS type="Node" left="375" top="1545" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10402" nodename="Divide (Value)" systemname="Divide (Value)" componentmode="Hidden">
+  <BOUNDS type="Node" left="3000" top="3510" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Input" visible="1">
+  </PIN>
+  <PIN pinname="Input 2" visible="1">
+  </PIN>
+  <PIN pinname="Inputs Count" visible="0" values="|2|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10607" nodename="Add (Value)" systemname="Add (Value)" componentmode="Hidden">
+  <BOUNDS type="Node" left="5745" top="22530" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Input 1" visible="1" values="|-1.6139359698681732|">
+  </PIN>
+  <PIN pinname="Input 2" visible="1" values="|0.10999999999999999|">
+  </PIN>
+  <PIN pinname="Input Count" visible="0" values="|2|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10613" nodename="./player.v4p" systemname="./player" filename="./player.v4p" componentmode="Hidden">
+  <BOUNDS type="Node" left="705" top="2310" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Mouse X" visible="1">
+  </PIN>
+  <PIN pinname="Mouse Y" visible="1">
+  </PIN>
+  <PIN pinname="Mouse Left" visible="1">
+  </PIN>
+  <PIN pinname="Width Height" visible="1">
+  </PIN>
+  <PIN pinname="onopen" visible="1">
+  </PIN>
+  <PIN pinname="XML Address" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10614" nodename="CurrentTime (Astronomy)" systemname="CurrentTime (Astronomy)" componentmode="Hidden">
+  <BOUNDS type="Node" left="630" top="180" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10615" nodename="Change (Animation)" systemname="Change (Animation)" componentmode="Hidden">
+  <BOUNDS type="Node" left="3045" top="840" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Input" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10616" nodename="S+H (Animation)" systemname="S+H (Animation)" componentmode="Hidden">
+  <BOUNDS type="Node" left="2745" top="1170" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Input" visible="1">
+  </PIN>
+  <PIN pinname="Set" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10617" nodename="Change (Animation)" systemname="Change (Animation)" componentmode="Hidden">
+  <BOUNDS type="Node" left="2820" top="1545" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Input" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10618" nodename="IOBox (String)" systemname="IOBox (String)" componentmode="InABox">
+  <BOUNDS type="Box" left="270" top="900" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="SliceOffset" visible="1">
+  </PIN>
+  <PIN pinname="Input String" visible="1" values="|patches/SCplayer.txt|">
+  </PIN>
+  <PIN pinname="Rows" visible="0" values="|1|">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <NODE id="10619" nodename="FrameDelay (Animation)" systemname="FrameDelay (Animation)" componentmode="Hidden">
+  <BOUNDS type="Node" left="2865" top="1935" width="100" height="100">
+  </BOUNDS>
+  <PIN pinname="Input 1" visible="1">
+  </PIN>
+  <PIN pinname="Default 1" visible="1">
+  </PIN>
+  <PIN pinname="Initialize" visible="1">
+  </PIN>
+  <PIN pinname="Descriptive Name" visible="0" values="||">
+  </PIN>
+  </NODE>
+  <LINK srcnodeid="10241" srcpinname="ResolutionXY" dstnodeid="10242" dstpinname="XY">
+  </LINK>
+  <LINK srcnodeid="10242" srcpinname="X" dstnodeid="10240" dstpinname="Backbuffer Width">
+  </LINK>
+  <LINK srcnodeid="10242" srcpinname="Y" dstnodeid="10240" dstpinname="Backbuffer Height">
+  </LINK>
+  <LINK srcnodeid="10243" srcpinname="Output" dstnodeid="10240" dstpinname="Background Color">
+  </LINK>
+  <LINK srcnodeid="10242" srcpinname="X" dstnodeid="10248" dstpinname="Input 2">
+  </LINK>
+  <LINK srcnodeid="10242" srcpinname="Y" dstnodeid="10248" dstpinname="Input">
+  </LINK>
+  <LINK srcnodeid="10248" srcpinname="Output" dstnodeid="10247" dstpinname="X">
+  </LINK>
+  <LINK srcnodeid="10247" srcpinname="Transform Out" dstnodeid="10240" dstpinname="View">
+  </LINK>
+  <LINK srcnodeid="10242" srcpinname="Y" dstnodeid="10402" dstpinname="Input 2">
+  </LINK>
+  <LINK srcnodeid="10242" srcpinname="X" dstnodeid="10402" dstpinname="Input">
+  </LINK>
+  <LINK srcnodeid="10613" srcpinname="Layer Out" dstnodeid="10240" dstpinname="Layers">
+  </LINK>
+  <LINK srcnodeid="10241" srcpinname="ResolutionXY" dstnodeid="10613" dstpinname="Width Height">
+  </LINK>
+  <LINK srcnodeid="10337" srcpinname="X" dstnodeid="10613" dstpinname="Mouse X">
+  </LINK>
+  <LINK srcnodeid="10337" srcpinname="Y" dstnodeid="10613" dstpinname="Mouse Y">
+  </LINK>
+  <LINK srcnodeid="10337" srcpinname="Left Button" dstnodeid="10613" dstpinname="Mouse Left">
+  </LINK>
+  <LINK srcnodeid="10614" srcpinname="Current Time" dstnodeid="10615" dstpinname="Input">
+  </LINK>
+  <LINK srcnodeid="10615" srcpinname="OnChange" dstnodeid="10616" dstpinname="Input">
+  </LINK>
+  <LINK srcnodeid="10615" srcpinname="OnChange" dstnodeid="10616" dstpinname="Set">
+  </LINK>
+  <LINK srcnodeid="10616" srcpinname="Output" dstnodeid="10617" dstpinname="Input">
+  </LINK>
+  <LINK srcnodeid="10618" srcpinname="Output String" dstnodeid="10613" dstpinname="XML Address">
+  </LINK>
+  <LINK srcnodeid="10617" srcpinname="OnChange" dstnodeid="10619" dstpinname="Input 1">
+  </LINK>
+  <LINK srcnodeid="10619" srcpinname="Output 1" dstnodeid="10613" dstpinname="onopen">
+  </LINK>
+  </PATCH>
